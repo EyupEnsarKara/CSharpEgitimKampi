@@ -1,0 +1,7 @@
+C:\Users\eyup\source\repos\CSharpEgitimKampi\_01_MainProjectSubjects\bin\Debug\_01_MainProjectSubjects.exe.config
+C:\Users\eyup\source\repos\CSharpEgitimKampi\_01_MainProjectSubjects\bin\Debug\_01_MainProjectSubjects.exe
+C:\Users\eyup\source\repos\CSharpEgitimKampi\_01_MainProjectSubjects\bin\Debug\_01_MainProjectSubjects.pdb
+C:\Users\eyup\source\repos\CSharpEgitimKampi\_01_MainProjectSubjects\obj\Debug\01_MainProjectSubjects.csproj.AssemblyReference.cache
+C:\Users\eyup\source\repos\CSharpEgitimKampi\_01_MainProjectSubjects\obj\Debug\01_MainProjectSubjects.csproj.CoreCompileInputs.cache
+C:\Users\eyup\source\repos\CSharpEgitimKampi\_01_MainProjectSubjects\obj\Debug\_01_MainProjectSubjects.exe
+C:\Users\eyup\source\repos\CSharpEgitimKampi\_01_MainProjectSubjects\obj\Debug\_01_MainProjectSubjects.pdb
